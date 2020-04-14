@@ -13,11 +13,11 @@ end
 
 def selection(num)
   if num = 2
-    binding.pry
+    #binding.pry
     puts "YUM YUM MUNCH MUNCH MUNCH"
   elsif num = 1
     puts "HAM HAM HAM IN MY TUMMY"
-    binding.pry
+    #binding.pry
   end
 end
 
